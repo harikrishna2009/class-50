@@ -1,0 +1,25 @@
+*{
+    color: rgb(141, 135, 222);
+}
+*{
+    border: solid;
+}
+.header{
+    color: red;
+    background-color: silver;
+    display: flex;
+    justify-content: space-between;
+
+}
+.socialmedia{
+    border: tomato;
+    display: flex;
+    justify-content: flex-end;
+}
+.menu{
+    box-shadow: yellowgreen;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+}
+
